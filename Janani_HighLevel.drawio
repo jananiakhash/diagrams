@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T17:26:28.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="TcW7ldB9zD_25452JZir" version="19.0.0" type="github"><diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">7VvLcqM4FP0aLyeFeBmWHbe7Z5Gu6pp0VS9TMiigCSBGyIk9Xz8CJPMQdkgax5o23gQuQo97dM69ksjCWqW7rxTm8TcSomRhGuFuYX1emKZpAMD/lJZ9bfF9vzZEFIe1CTSGe/wvEkZDWLc4REWnICMkYTjvGgOSZShgHRuklLx0iz2SpNtqDiOkGO4DmEjrjdPYf+KQxcIOXL958CfCUSwa90y3frCBwVNEyTYTLWYkQ/WTFMpqxCiLGIbkpWWy1gtrRQlh9VW6W6GkdKz0mXyP7WVHF9ZtzNKE3wB+WT3+cuRlMOZlPi6KMtZu7mh9xsZwXOgHrmUhFwR/AE9pAYXcreKWUBaTiGQwWTfW28pTqKzS6HYHZeGnEkl+u0lI8FSbvuBEFvgbMbYXUwduGeGmpok7QnJRrmCUPB1ANCsLpExWXuEjbKJ2Y9Ab0n9kSwN0zAVirkIaIXakjFmXKV3Tqlj4+CsiKWJ0zwtQlECGn7vzFIqJHR3KNQjxCwHSWMDqOp9hshWtfENFUVLDNH5QmBW8A4QqoKoODWERHzCECY4yfh1wzyHKDY8kYwInULk/hnl5k+6iUj1uEM5v0rrhB9Y0y1/kcKxIUl7zdq3AeHSgz+3PiDLMyXoHNyj5TgrMMClb3BDGSNoq8El0hZWT4TikZXG0OwmGeGp5Aj2ha44vKPnS0ghH2OKWPMhy0+LnXz3hzBGEc6cmXPUqHw7ctwrkBGesaNX8vTQ0U8dzulPHtZyuvL5S3raN3mSpe9BMncNQ3jebBqLLPJvUMp428j0Q0WfABlTS/i3473nO4rz8V7KBv1CAc4yqXt3hgk2eCUwc4IcSCyrH8JCUI5gkC3AtrbKA5dXLgD1GBrTRbftE2r3OwrzWgTMl3bRaLr+XYcOE/XVGgaVOjHIUgF6BA7wFDk9Fo+fWx+p34FDriVH9hnlybJqNBkEEGImB6SgQ2AMI2OdAYMDj16Zp7hhNM7QRNTlbZsROI6bP7o85b9dJ/pyETI/lAzDdZUeeLdDbnu29YNony0+/fnA1Tmvq7KWf0xySnWPrkKRXzaEbE6Q8voxxEp/lJVOe5W+R8rhvBUGnlMe6ejn2xgRQfdZxnsaCd6F1XF/U3IuKmv+xova6Pnlv9adG+iRzpfm0cPyuBvB1ivFSOmcE34/gZQVNfmNyxTmCXECfThIsbZIE2d8W6T6jf2DITXfcvZwwprGKYZaVX1D9YnBqYXskTrUpGCIY1l2Q7Y9gWrUiuj184jSUwZ+NjH5vRes4A1w0BrhonoWL87GLpNlpLjr6cNFSuLjOnlFC8jIC/uTMyNH04e8DDjmRGMXDixjDeYKfA9T88wODnz0TbtRB5+TfO72fcOpR5/+RXgFJc1Kg8EFmrTklAb8kZ9oK9OyLJpl6flWorCo+knfOCN5pck7gGJqfEwD1eL1Zht7zlSCaXCMm1AIpAUXV0TN+EWH3PzK6aPAFp0535r2DUenTZWXdUvfvfmCWqGTjw2PKQYyQ07aXhWl40cmTNXEvKgYDrk5xGFbRQ5kGE7jfMzrOH/S9P83mKb9t/mmnlsjm36Ks9X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-03T17:38:33.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="8GFvcCjcUVnhcESxZGlR" version="19.0.0" type="github">
+  <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
+    <mxGraphModel dx="1414" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="-vNNqSKeHYSWtiELex24-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="150" width="240" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-3" value="Registration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-4" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-5" value="Find Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-6" value="Add To Cart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-7" value="Place Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-8" value="Order History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.477;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-vNNqSKeHYSWtiELex24-2" target="-vNNqSKeHYSWtiELex24-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="920" as="sourcePoint" />
+            <mxPoint x="340" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-vNNqSKeHYSWtiELex24-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="530" as="sourcePoint" />
+            <mxPoint x="420" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.005;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-vNNqSKeHYSWtiELex24-2" target="-vNNqSKeHYSWtiELex24-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="556.03" as="sourcePoint" />
+            <mxPoint x="430" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.01;exitY=0.477;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-vNNqSKeHYSWtiELex24-2" target="-vNNqSKeHYSWtiELex24-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269" y="566.03" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-vNNqSKeHYSWtiELex24-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="530" as="sourcePoint" />
+            <mxPoint x="450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-14" value="INTERNET" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="487.5" width="103.17" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="877" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-18" value="Registration API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-19" value="Login API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-20" value="Find Store By Location API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-21" value="Cart API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-22" value="Order API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-23" value="Order History API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-28" value="MySQL &lt;br&gt;Database" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="420" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-29" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-vNNqSKeHYSWtiELex24-30" value="REST API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="840" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
